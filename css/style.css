@@ -126,6 +126,7 @@ html {
     .producto{
         background-color: var(--primarioOscuro);
         padding: 1rem;
+        margin: 1rem;
     }
 
     .producto__nombre{
