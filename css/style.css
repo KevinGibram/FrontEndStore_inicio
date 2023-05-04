@@ -127,7 +127,12 @@ html {
         background-color: var(--primarioOscuro);
         padding: 1rem;
         margin: 1rem;
-    }
+        place-items: center;
+      }
+      
+      .producto__imagen {
+        justify-self: center;
+      }
 
     .producto__nombre{
         font-size: 3rem;
